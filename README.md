@@ -110,3 +110,5 @@ If you encounter any issues or have questions:
 
 - **Issues**: [GitHub Issues](https://github.com/saimmoin/FlavorAI/issues)
 ---
+
+**Made with ❤️ by [saimmoin](https://github.com/saimmoin)**

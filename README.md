@@ -92,3 +92,14 @@ The application will be available at:
 ```
 http://127.0.0.1:5000/
 ```
+
+---
+
+## 🔧 Dependencies
+
+- **Flask**: Web framework for Python
+- **Flask-CORS**: Cross-Origin Resource Sharing support
+- **google-generativeai**: Google Gemini API client
+- **python-dotenv**: Environment variable management *(optional)*
+
+---

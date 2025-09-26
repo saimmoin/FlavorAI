@@ -103,3 +103,10 @@ http://127.0.0.1:5000/
 - **python-dotenv**: Environment variable management *(optional)*
 
 ---
+
+## 🆘 Support
+
+If you encounter any issues or have questions:
+
+- **Issues**: [GitHub Issues](https://github.com/saimmoin/FlavorAI/issues)
+---
